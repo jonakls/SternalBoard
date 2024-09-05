@@ -16,7 +16,6 @@ public class TablistManager extends ManagerExtension {
 
     public TablistManager(SternalBoardPlugin plugin) {
         super(plugin);
-
     }
 
     public void load() {
